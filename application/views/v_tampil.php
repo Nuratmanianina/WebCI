@@ -7,6 +7,7 @@
     <title>Tampil Data</title>
 </head>
 <body>
+    
     <h1>Tampil Data Dari Controller</h1>
 </body>
 </html>
